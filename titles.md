@@ -6,4 +6,8 @@
 - The Big Short
 - 12 Monkeys
 
+<<<<<<< HEAD
 changing titles
+=======
+The internship
+>>>>>>> update_dune
