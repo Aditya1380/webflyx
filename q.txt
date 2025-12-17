@@ -1,0 +1,214 @@
+Core Java (Very Important – Expect Deep Follow-ups)
+OOP & Basics
+
+Explain OOP principles with real project examples.
+
+Difference between abstract class and interface (Java 8 angle).
+
+Why is composition preferred over inheritance?
+
+What is immutability? How is String immutable?
+
+Difference between == and equals()? What about hashCode()?
+
+What happens if hashCode() is same but equals() is false?
+
+Collections
+
+Difference between ArrayList vs LinkedList.
+
+How does HashMap work internally?
+
+Why HashMap allows one null key?
+
+Difference between HashMap and ConcurrentHashMap.
+
+How to make a collection thread-safe?
+
+Difference between fail-fast and fail-safe iterators.
+
+Multithreading (VERY COMMON for 3–4 Years)
+
+Difference between Thread and Runnable.
+
+What is synchronization? Where have you used it?
+
+Difference between synchronized method vs synchronized block.
+
+What is deadlock? How do you prevent it?
+
+What is volatile keyword?
+
+Explain ExecutorService.
+
+Difference between Callable and Runnable.
+
+2️⃣ Java 8 (Almost Guaranteed Round)
+Functional Programming
+
+What are functional interfaces?
+
+Explain lambda expressions with example.
+
+What is method reference?
+
+Difference between Predicate, Consumer, Supplier, Function.
+
+Streams (Very Important)
+
+What is Stream API?
+
+Difference between map() and flatMap().
+
+Difference between filter() and map().
+
+Difference between findFirst() and findAny().
+
+What is lazy evaluation in streams?
+
+Difference between intermediate and terminal operations.
+
+Parallel stream – when to use and when NOT to use?
+
+Optional
+
+Why was Optional introduced?
+
+How do you avoid NullPointerException using Optional?
+
+3️⃣ Spring Boot (Expect Practical + Configuration Questions)
+
+(Using Spring Boot concepts)
+
+Core Spring Boot
+
+What is Spring Boot and why is it used?
+
+Difference between Spring and Spring Boot.
+
+What is auto-configuration?
+
+What is starter dependency?
+
+Explain application.properties vs application.yml.
+
+Annotations
+
+Difference between @Component, @Service, @Repository.
+
+Difference between @Controller and @RestController.
+
+What is @Autowired? Constructor vs field injection?
+
+What is @Configuration and @Bean?
+
+What is @SpringBootApplication internally?
+
+REST APIs
+
+Difference between GET, POST, PUT, PATCH, DELETE.
+
+What is REST?
+
+What is idempotency?
+
+How do you handle exception globally? (@ControllerAdvice)
+
+How do you validate request data? (@Valid)
+
+Database Integration
+
+Difference between JPA and Hibernate.
+
+What is Entity life cycle?
+
+Difference between save() and saveAndFlush().
+
+What is Lazy vs Eager fetching?
+
+What is N+1 problem?
+
+4️⃣ Microservices (High Probability)
+Microservices Basics
+
+What are microservices?
+
+Difference between monolithic and microservices architecture.
+
+Advantages and disadvantages of microservices.
+
+Communication & Design
+
+How do microservices communicate?
+
+REST vs Messaging (Kafka/RabbitMQ – basic idea).
+
+What is API Gateway?
+
+What is Service Registry?
+
+Difference between synchronous and asynchronous communication.
+
+Resilience & Config
+
+What is circuit breaker?
+
+What is centralized configuration?
+
+How do you handle failures in microservices?
+
+How do you secure microservices?
+
+5️⃣ Oracle / SQL (Very Common Practical Round)
+
+(Using Oracle Database concepts)
+
+SQL Basics
+
+Difference between WHERE and HAVING.
+
+Difference between DELETE, TRUNCATE, DROP.
+
+What is primary key vs unique key?
+
+What is foreign key?
+
+Joins & Queries
+
+Types of joins with example.
+
+Difference between INNER JOIN and LEFT JOIN.
+
+Find 2nd highest salary.
+
+Find duplicate records in a table.
+
+Difference between subquery and join.
+
+Performance
+
+What is index? How does it improve performance?
+
+Types of indexes in Oracle.
+
+What is execution plan?
+
+What is normalization?
+
+6️⃣ Real Project & Scenario Questions (VERY IMPORTANT)
+
+Explain your current project architecture.
+
+What challenges did you face in production?
+
+How did you improve performance?
+
+How do you handle exception and logging?
+
+How do you debug production issues?
+
+What happens when an API fails?
+
+How do you handle concurrent requests?
+
+How do you design a new API?
